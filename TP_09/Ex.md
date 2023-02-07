@@ -17,7 +17,6 @@
 
 1. Créer le fichier [compose.yaml](./compose.yaml) provenant de dockerhub
 
-
 2. Lancer la commande dans le répetoire contenant  [compose.yaml](./compose.yaml) : 
         
         docker-compose up -d
